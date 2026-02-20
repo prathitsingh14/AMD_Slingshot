@@ -1,2 +1,2 @@
 # AMD_Slingshot
-Repo for AMD slingshot hackathon
+Repository for AMD slingshot hackathon
